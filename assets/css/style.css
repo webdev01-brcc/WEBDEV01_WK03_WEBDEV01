@@ -12,3 +12,16 @@ body {
     background-position: center;
     background-repeat: none;
 }
+
+    .hero-text{
+        color: whitesmoke;
+    }
+
+        .hero-text h1{
+            font-size: 8rem;
+            margin-top: -1.3em;
+        }
+
+        .hero-text p{
+            margin-top: -1.2em;
+        }
