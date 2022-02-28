@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
 body {
     background-color: blanchedalmond;
 }
@@ -20,8 +22,18 @@ body {
         .hero-text h1{
             font-size: 8rem;
             margin-top: -1.3em;
+            font-family: 'Sigmar One', cursive;
+            /* font-family: 'Abril Fatface', cursive; */
         }
 
         .hero-text p{
             margin-top: -1.2em;
         }
+
+#about-me h2{
+    color: #777;
+}
+
+article p{
+    font-size: 1.3rem;
+}
