@@ -1,0 +1,14 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.hero {
+    width: 100vw;
+    height: calc(100vh - 56px);
+    background-color: aqua;
+    position: relative;
+    background: url('../images/bernd-dittrich-oIz9Rl7UuvI-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: none;
+}
